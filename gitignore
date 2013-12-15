@@ -5,3 +5,8 @@
 
 # python 
 *.pyc
+
+# LaTeX
+*.bbl
+*.blg
+*.log
